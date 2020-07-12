@@ -3,8 +3,8 @@
 Stuart Truax, 2020-07
 
 This notebook demonstrates the use of modern portfolio theory in optimizing a
-portfolio of equity securities. Price series data of several equities are compiled
-and interday returns for the securities are compiled, along with the covariance matrix.
+portfolio of equity securities. Price series data of several equities are collated
+and interday returns for the securities are computed, along with the covariance matrix.
 
 Several portfolios are generated based on the following quadratic programming problems:
 
